@@ -22,6 +22,7 @@ Some of the data is not well suited to being displayed in the chart form that I 
 * [Streamlit](https://www.streamlit.io)
 * [Streamlit for Teams](https://www.streamlit.io/for-teams)
 * [pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
 * [MPL Cyberpunk](https://github.com/dhaitz/mplcyberpunk)
 
 
