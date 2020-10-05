@@ -56,7 +56,7 @@ category = st.sidebar.selectbox('Select data to display:', categories, index=33)
 # Creating a slider on the sidebar to adjust dates
 days_to_show = st.sidebar.slider(
     'Number of days to display:',
-    0, 100, 14
+    0, 365, 14
 )
 
 # Creating a Checkbox in the sidebar to turn off the mplcyberpunk style
